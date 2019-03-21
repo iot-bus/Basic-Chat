@@ -1,3 +1,4 @@
 # Basic-Chat
-Bluetooth Low Energy App for iOS using Swift.
-Looking to learn how Bluetooth Low Energy works in iOS & Swift 3? Well look no farther, we've got what you've been waiting for!
+Bluetooth Low Energy App for iOS using Swift originally written by Adafruit. Updated for Swift 4 and to easily interface with
+BLESerial library for esp32 on github at: https://github.com/iot-bus/BLESerial
+
